@@ -21,4 +21,13 @@ Para instalar as dependências, use o seguinte comando:
 ```bash
 pip install pygame
 ```
+## Integrantes do Grupo
+
+O projeto foi desenvolvido por um time talentoso de profissionais. Abaixo estão os integrantes do grupo:
+
+- [Pedro Henrique Pinheiro Passos](https://github.com/pedrontx)
+- [Lucas Juscelino de Sousa](https://github.com/LucasJuscelino)
+- [José Maria da Silva Júnior -](https://github.com/Kroatta)
+- [João Lucas da Silva Dutra](https://github.com/JoaoLucas0Two)
+
 
