@@ -1,7 +1,6 @@
 # Fight Game 🎮
 
-**Fight Game** é um jogo de luta 2D desenvolvido com a biblioteca Pygame. O jogo permite que dois jogadores se enfrentem em uma arena até que um deles vença 3 vezes. O jogo oferece personagens com habilidades únicas: o **Guerreiro**, que utiliza ataques rápidos e poderosos com sua espada, e o **Mago**, que lança feitiços com seu cajado.
-
+O projeto desenvolvido é um jogo eletrônico de luta 2D onde dois personagens competem em um duelo até que um deles perca toda sua barra de vida, lutando entre si até que um dos personagens perca toda sua barra de vida. O jogo oferece uma interface simples, personagens animados, sons dinâmicos e uma experiência divertida para os jogadores.
 ## Funcionalidades
 
 - **Modo PvP:** Jogo para dois jogadores, com controles para cada um.
