@@ -1,6 +1,8 @@
 # Fight Game 🎮
 
 O projeto desenvolvido é um jogo eletrônico de luta 2D onde dois personagens competem em um duelo até que um deles perca toda sua barra de vida, lutando entre si até que um dos personagens perca toda sua barra de vida. O jogo oferece uma interface simples, personagens animados, sons dinâmicos e uma experiência divertida para os jogadores.
+![image](https://github.com/user-attachments/assets/a1ad8f05-46ea-4fc9-b1a4-4ade133b4454)
+
 ## Funcionalidades
 
 - **Modo PvP:** Jogo para dois jogadores, com controles para cada um.
