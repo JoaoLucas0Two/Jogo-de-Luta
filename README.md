@@ -23,7 +23,7 @@ pip install pygame
 ```
 ## Integrantes do Grupo
 
-O projeto foi desenvolvido por um time talentoso de profissionais. Abaixo estão os integrantes do grupo:
+O projeto foi desenvolvido por:
 
 - [Pedro Henrique Pinheiro Passos](https://github.com/pedrontx)
 - [Lucas Juscelino de Sousa](https://github.com/LucasJuscelino)
