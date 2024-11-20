@@ -27,7 +27,7 @@ O projeto foi desenvolvido por:
 
 - [Pedro Henrique Pinheiro Passos](https://github.com/pedrontx)
 - [Lucas Juscelino de Sousa](https://github.com/LucasJuscelino)
-- [José Maria da Silva Júnior -](https://github.com/Kroatta)
+- [José Maria da Silva Júnior](https://github.com/Kroatta)
 - [João Lucas da Silva Dutra](https://github.com/JoaoLucas0Two)
 
 
