@@ -20,3 +20,6 @@ Para instalar as dependências, use o seguinte comando:
 
 ```bash
 pip install pygame
+```
+[Pedro Henrique Pinheiro Passos]([URL](https://github.com/pedrontx))
+
